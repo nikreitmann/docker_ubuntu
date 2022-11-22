@@ -18,7 +18,7 @@ $TIMEZONE   default: Europe/Zurich
 
 ## Run Container
 ```
-docker run -d \
+docker run -it \
   --name ubuntu \
   -e USER=ubuntu \
   -e PASSWORD=password \
