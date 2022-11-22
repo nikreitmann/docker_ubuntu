@@ -1,5 +1,5 @@
 # docker_ubuntu
-A custom ubuntu jammy image
+A custom ubuntu:jammy image
 
 ## Description
 Custom Ubuntu jammy container:
