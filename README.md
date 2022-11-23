@@ -1,8 +1,8 @@
 # docker_ubuntu
-A custom ubuntu:jammy image
+An custom ubuntu:jammy image
 
 ## Description
-Custom Ubuntu jammy container:
+Custom Ubuntu jammy image:
 - creates a user with userhome
 - set locales UTF-8
 - set timezone
